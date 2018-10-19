@@ -1,8 +1,8 @@
 {
-  "name": "repemorizer_server",
+  "name": "template_server",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/akhant/repemorizer.git",
+  "repository": "https://github.com/akhant/Template.git",
   "author": "akhant <a.khantelev@mail.ru>",
   "license": "MIT",
   "devDependencies": {
